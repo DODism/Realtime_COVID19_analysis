@@ -19,7 +19,8 @@ A correlation study to analyse the cases regarding COVID-19 Outbreak worldwide w
 * Time series data sourced from git (https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 
 # Data Transformation:
-Data tranformation using Microsoft Excel 2019.
+Data tranformation using Microsoft Excel 2019. For Raw data and analysis (see: https://1drv.ms/f/s!AvsMRQIUEUbegQQkULvcFeAvDV1-)
+
 
 # Finding and recommendation:
 
